@@ -1,5 +1,4 @@
 dwarves = ["Doc", "Dopey", "Bashful", "Grumpy"]
-planeteer_calls = ["earth", "wind", "fire", "water", "heart"]
 def roll_call_dwarves(array)
    i = 0 
   while i < array.length 
@@ -7,7 +6,7 @@ def roll_call_dwarves(array)
     i += 1 
   end 
 end
-
+planeteer_calls = ["earth", "wind", "fire", "water", "heart"]
 def summon_captain_planet# code an argument here
   # Your code here
 end
