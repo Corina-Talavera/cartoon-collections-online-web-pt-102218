@@ -1,3 +1,5 @@
+dwarves = ["Doc", "Dopey", "Bashful", "Grumpy"]
+planeteer_calls = ["earth", "wind", "fire", "water", "heart"]
 def roll_call_dwarves# code an argument here
   # Your code here
 end
